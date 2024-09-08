@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En Kaluf SAS, nos dedicamos a la marroquinería industrial, creando productos de cuero de alta calidad para diferentes usos. Creemos que cada artículo debe reflejar la personalidad y el valor de quien lo lleva, por eso ponemos nuestro enfoque en el diseño y la durabilidad.",
+        "description": "En Kaluf SAS, nos dedicamos a la marroquinería industrial, creando productos en lona y en sintéticos de alta calidad para diferentes usos. Creemos que cada artículo debe reflejar la personalidad y el valor de quien lo lleva, por eso ponemos nuestro enfoque en el diseño y la durabilidad.",
         "img": "/assets/images/2.png"
       },
       {
@@ -53,23 +53,19 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 311 8649772",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "LUIKARENC728@HOTMAIL.COM",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        
       }
     ]
   },
